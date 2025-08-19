@@ -52,7 +52,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Natan-Ledur/dist/snake.svg)
+  ![Snake animation](https://github.com/Natan-Ledur/Natan-Ledur.github/workflows/snake.yml)
 
 
   
